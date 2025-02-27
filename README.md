@@ -4,7 +4,7 @@
 - 👋 Hi, I’m Sai Harsha Kondaveeti - A spirited Data Scientist/AI Engineer with rigorous hands-on experience in Machine Learning, NLP and Agentic AI
 - 👀 I’m aimed to develop AI Agents for workforce, in view of achieving autonomy at business workplace.
 - Implemented Advanced RAG & LLM for InCos AI Assistant in University Academic Settings to help students with their coursework.
-- Lead a team of 3 in Studying Medical Image Data and Satellite Imagery where main objective is Data Preprocessiing, Feature Engineering for making data ready for Deep Learning
+- Lead a team of 3 in Studying Medical Image Data and Satellite Imagery where main objective is Data Preprocessiing, Feature Engineering for making data ready to use Neural Networks for Inference.
   
 - 🌱 I’m currently learning LangChain for Agentic AI and 
 - 💞️ I’m looking to collaborate on learning and implementing Langchain & other frameworks to develop an AI Agent Builder/Platform for Marketing.
